@@ -1,0 +1,14 @@
+dialogue/DialogueImpl.java
+ dialogue.DialogueImpl
+connection/ConnectionImpl.java
+ connection.ConnectionImpl
+Server.java
+ Server
+connection/Connection.java
+ connection.Connection
+dialogue/Dialogue.java
+ dialogue.Dialogue
+msgapplication/MsgApplication.java
+ msgapplication.MsgApplication
+Client.java
+ Client
